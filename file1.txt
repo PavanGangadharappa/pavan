@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this is my firt file have a nice day 
 have a great future a head
+=======
+hi 
+this is my first file
+i am going to edit this
+>>>>>>> pavan
